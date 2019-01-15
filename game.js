@@ -16,7 +16,7 @@ KEY_CODES = {
   80: 'p'
 }
 
-//here is a new comment
+//here is a my Local comment
 
 KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
