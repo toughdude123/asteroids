@@ -16,7 +16,7 @@ KEY_CODES = {
   80: 'p'
 }
 
-//here is a new commnet
+//here is a new comment
 
 KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
