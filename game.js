@@ -17,7 +17,7 @@ KEY_CODES = {
 }
 
 //here is a my Final comment
-//here is another local comment
+//here is another Final comment
 
 KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
