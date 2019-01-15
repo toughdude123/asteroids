@@ -16,6 +16,8 @@ KEY_CODES = {
   80: 'p'
 }
 
+//here is a new commnet
+
 KEY_STATUS = { keyDown:false };
 for (code in KEY_CODES) {
   KEY_STATUS[KEY_CODES[code]] = false;
